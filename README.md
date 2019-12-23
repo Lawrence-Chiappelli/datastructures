@@ -7,3 +7,5 @@ You will find the following data structure type demonstrations within this folde
   3) Binary Tree (traversals and binary search tree)
   4) Stack
   5) Queue
+  6) Recursion
+  7) Sorting Algorithms (bubble sort, merge sort, and quicksort)
